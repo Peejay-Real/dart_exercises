@@ -1,7 +1,7 @@
 # NTC Week 7 Dart Exercises
 
 **Name:** Peejay Real  
-**Section:** BSIT 3rd Year  
+**Section:** BSIT 3.2  
 **Subject:** NTC_PC16 - Mobile Development w/ Lab
 
 ## Program Description
