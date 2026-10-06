@@ -1,0 +1,9 @@
+-----NTC Student Payment Center-----
+
+Student Name: Peejay Real
+Number of Payments: 5
+2nd Payment Due: PHP 7416
+Amount Paid: PHP 0
+Remaining Balance: PHP 7416
+Is Paid: false
+Is Amount Enough: false
